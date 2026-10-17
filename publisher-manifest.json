@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "b2138a7d336600291c49e08f",
+  "owner": "pmgqqfht",
+  "repo": "page-46b60dfb8a7b3760213d18c8",
+  "title": "极光定制",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "46b60dfb8a7b3760213d18c8",
+      "a": "极光定制",
+      "b": "",
+      "entity": "极光定制",
+      "brand": "极光定制",
+      "separator": "",
+      "path": "index.html",
+      "hash": "7c24b693ac791f6320b272524f0262b20ed229ec5d68e0e967beb794a7ca080b",
+      "content": {
+        "keyword1": "极光定制",
+        "keyword2": "",
+        "primary_entity": "极光定制",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "极光定制提供稳定的专线网络加速服务，包括IPLC专线、流媒体解锁和企业定制路由方案。",
+          "AI_DESCRIPTION": "极光定制提供稳定的专线网络加速服务，包括IPLC专线、流媒体解锁和企业定制路由方案。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box;margin:0;padding:0}\nbody{font-family:-apple-system,BlinkMacSystemFont,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#0a2540;color:#e6f0fa;line-height:1.7;font-size:16px}\na{color:#f5a623;text-decoration:none;transition:opacity .2s}\na:hover{opacity:.8}\nmain{max-width:1200px;margin:0 auto;padding:0 24px}\nsection{padding:80px 0;border-bottom:1px solid rgba(245,166,35,.15)}\n.hero{padding:120px 0 100px;border-bottom:none}\n.hero h1{font-size:48px;font-weight:700;color:#fff;margin-bottom:24px;line-height:1.3}\n.hero p{font-size:18px;color:#b0c4de;max-width:680px;margin-bottom:32px}\n.anchors{display:flex;flex-wrap:wrap;gap:16px;margin-top:40px}\n.anchors a{display:inline-block;padding:10px 20px;background:rgba(245,166,35,.1);border:1px solid rgba(245,166,35,.3);border-radius:999px;color:#f5a623;font-size:14px}\nh2{font-size:32px;font-weight:600;color:#fff;margin-bottom:32px;padding-bottom:16px;border-bottom:2px solid #f5a623;display:inline-block}\nh3{font-size:20px;font-weight:600;color:#f5a623;margin-bottom:16px}\np{margin-bottom:16px}\n.plans{display:flex;flex-direction:column;gap:32px;max-width:800px;margin:0 auto}\n.plan{background:#0d2d4f;border-radius:24px;padding:32px;box-shadow:0 8px 32px rgba(0,0,0,.3);border:1px solid rgba(245,166,35,.1);transition:transform .3s,box-shadow .3s}\n.plan:hover{transform:translateY(-4px);box-shadow:0 12px 40px rgba(0,0,0,.4)}\n.plan.featured{border:2px solid #f5a623;background:linear-gradient(180deg,#0d2d4f 0%,#11305a 100%);margin:0 -16px}\n.plan-header{display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:24px}\n.plan-name{font-size:24px;font-weight:600;color:#fff}\n.plan-price{font-size:28px;font-weight:700;color:#f5a623}\n.plan-annual{font-size:13px;color:#94a8c4;margin-top:4px}\n.plan-features{list-style:none}\n.plan-features li{padding:10px 0;color:#b0c4de;border-bottom:1px solid rgba(255,255,255,.05);font-size:14px}\n.plan-features li:before{content:\"✓\";color:#f5a623;margin-right:12px;font-weight:bold}\n.badge{display:inline-block;padding:4px 12px;background:#f5a623;color:#0a2540;border-radius:999px;font-size:12px;font-weight:600;margin-left:12px}\n.faq-groups{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:40px}\n.faq-group h3{color:#f5a623;border-bottom:1px solid rgba(245,166,35,.3);padding-bottom:12px;margin-bottom:20px}\n.faq-item{margin-bottom:24px}\n.faq-item h4{font-size:16px;color:#fff;margin-bottom:8px;font-weight:500}\n.faq-item p{font-size:14px;color:#94a8c4}\n.footer{padding:60px 0;text-align:center;color:#94a8c4;font-size:14px;border-top:1px solid rgba(245,166,35,.15)}\n.clients-note{background:#0d2d4f;border-radius:24px;padding:32px;box-shadow:0 8px 32px rgba(0,0,0,.3);text-align:center;margin:0 auto;max-width:600px}\n.clients-note p{color:#b0c4de;font-size:15px}\n@media(max-width:768px){.hero h1{font-size:32px}.hero p{font-size:16px}h2{font-size:24px}.plan.featured{margin:0}}\n</style><main>\n<section class=\"hero\">\n<h1>极光定制</h1>\n<p>专线网络加速服务，为不同需求设计专属方案。从个人流媒体到企业级路由，提供稳定可靠的网络连接体验。</p>\n<div class=\"anchors\">\n<a href=\"#plans\">查看套餐</a>\n<a href=\"#faq\">常见问题</a>\n<a href=\"#about\">关于服务</a>\n<a href=\"#clients\">客户端说明</a>\n</div>\n</section>\n\n<section id=\"about\">\n<h2>服务介绍</h2>\n<p>极光定制专注于提供高质量的网络加速服务。我们基于IPLC专线技术，为用户打造低延迟、高稳定性的网络连接方案。</p>\n<p>无论您需要解锁海外流媒体内容，还是进行跨国游戏加速，或是为企业搭建定制化网络路由，极光定制都有相应的解决方案。</p>\n<p>我们的服务覆盖多个国家和地区，采用优质的网络基础设施，确保数据传输的安全性和稳定性。</p>\n</section>\n\n<section id=\"plans\">\n<h2>套餐方案</h2>\n<div class=\"plans\">\n<div class=\"plan\">\n<div class=\"plan-header\">\n<div>\n<div class=\"plan-name\">基础版</div>\n</div>\n<div>\n<div class=\"plan-price\">¥15/月</div>\n<div class=\"plan-annual\">按年付仅需 ¥150/年</div>\n</div>\n</div>\n<ul class=\"plan-features\">\n<li>每月 100GB 极速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n</div>\n<div class=\"plan featured\">\n<div class=\"plan-header\">\n<div>\n<div class=\"plan-name\">旗舰版<span class=\"badge\">推荐</span></div>\n</div>\n<div>\n<div class=\"plan-price\">¥35/月</div>\n<div class=\"plan-annual\">按年付仅需 ¥350/年</div>\n</div>\n</div>\n<ul class=\"plan-features\">\n<li>每月 300GB 极速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7x24 优先工单支持</li>\n</ul>\n</div>\n<div class=\"plan\">\n<div class=\"plan-header\">\n<div>\n<div class=\"plan-name\">团队版</div>\n</div>\n<div>\n<div class=\"plan-price\">¥85/月</div>\n<div class=\"plan-annual\">按年付仅需 ¥850/年</div>\n</div>\n</div>\n<ul class=\"plan-features\">\n<li>每月 1000GB 极速流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n</div>\n</div>\n</section>\n\n<section id=\"clients\">\n<h2>客户端说明</h2>\n<div class=\"clients-note\">\n<p>极光定制的客户端软件可通过官方渠道获取。购买套餐后，您将收到详细的使用指南和配置说明。我们支持主流操作系统平台，包括 Windows、macOS、iOS 和 Android。具体下载方式和安装步骤，请参考购买后提供的服务文档。</p>\n</div>\n</section>\n\n<section id=\"faq\">\n<h2>常见问题</h2>\n<div class=\"faq-groups\">\n<div class=\"faq-group\">\n<h3>基础使用</h3>\n<div class=\"faq-item\">\n<h4>如何开始使用极光定制服务？</h4>\n<p>选择适合的套餐并完成订阅后，您会收到配置信息和使用说明。按照指引下载客户端并导入配置即可开始使用。</p>\n</div>\n<div class=\"faq-item\">\n<h4>支持哪些设备和平台？</h4>\n<p>我们支持 Windows、macOS、iOS、Android 等主流平台。具体支持的系统版本请参考客户端下载页面的说明。</p>\n</div>\n<div class=\"faq-item\">\n<h4>流量用完后会怎样？</h4>\n<p>当月流量使用完毕后，服务会暂停直到下个计费周期。您也可以选择升级到更高流量的套餐或购买流量加包。</p>\n</div>\n</div>\n<div class=\"faq-group\">\n<h3>套餐与计费</h3>\n<div class=\"faq-item\">\n<h4>套餐价格是否包含所有费用？</h4>\n<p>是的，显示价格即为最终价格，无其他隐藏费用。按年付费可享受优惠价格。</p>\n</div>\n<div class=\"faq-item\">\n<h4>可以随时更换套餐吗？</h4>\n<p>可以。您可以在当前套餐到期前升级到更高级别的套餐，系统会自动计算差价。</p>\n</div>\n<div class=\"faq-item\">\n<h4>支持哪些支付方式？</h4>\n<p>我们支持多种主流支付方式，包括支付宝、微信支付等。具体可用方式以结账页面显示为准。</p>\n</div>\n</div>\n<div class=\"faq-group\">\n<h3>技术支持</h3>\n<div class=\"faq-item\">\n<h4>遇到连接问题怎么办？</h4>\n<p>首先检查网络环境和配置是否正确。如问题持续，可通过工单系统联系我们。旗舰版及以上套餐享受优先支持服务。</p>\n</div>\n<div class=\"faq-item\">\n<h4>是否提供退款保障？</h4>\n<p>具体退款政策请参考服务条款。一般情况下，未使用或存在技术问题无法解决的情况可申请退款。</p>\n</div>\n<div class=\"faq-item\">\n<h4>团队版的企业定制路由是什么？</h4>\n<p>团队版支持根据企业需求定制网络路由方案，包括专属节点、带宽保障等。具体方案可与客户经理沟通确认。</p>\n</div>\n</div>\n</div>\n</section>\n</main>\n<footer class=\"footer\">\n<p>极光定制 © 网络加速服务</p>\n</footer>",
+          "hash": "6de968a1865bbe76e2cb3dcc092ec2e5b428020a2da8be0d87bf88de5e93c069",
+          "seo": {
+            "title": "极光定制 - 专线网络加速服务",
+            "keywords": "极光定制,网络加速,专线,IPLC,流媒体解锁,企业网络",
+            "description": "极光定制提供稳定的专线网络加速服务，包括IPLC专线、流媒体解锁和企业定制路由方案。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "2492",
+            "hero": "5 长文叙事开篇，像专栏文章",
+            "palette": "3 深海蓝配琥珀",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "aiewu.cn",
+    "host": "p-12970987e4.aiewu.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "5f88bb52529332c2c6dd651b8ff0523449225d6ea78356277542bb7f3053a080",
+    "sitemap.xml": "380d38cab76eef640eb4cc30f2e380217e9c447ca1bc068b309ba7a905b6064c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "88e61f8ccdde9fda7692ecd6fce5a4614dfec92a9870b881c3db5aec77dfaf31",
+    "robots.txt": "27978d2547161f45f155e03ee3d9cdd9fb4c2176e21e0a673523457b565084c7",
+    "cc7a2c483cba2c69c52ebd876be77644.txt": "ae08e111df70237619bcbc0cd14503b06556dbdb0ca27aa9faf4c1d124284390"
+  },
+  "revision": "b902588be6ce686be32c59b16acb25ec009c75a1fbd51319892286cba36e6f00"
+}
